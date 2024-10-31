@@ -1,0 +1,77 @@
+body{
+    color: #000;
+    font-family: "Inria Sans";
+    font-size: 16px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+    text-align: center;
+    background-color: #70866C;
+    margin: 0 auto;
+    max-width: 1000px;
+    
+    }
+    
+    
+    
+    #title{
+    color: #000;
+    font-family: "Inria Serif";
+    font-size: 36px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    
+    }
+    
+    img{
+      display: block;
+      max-width: 100%;
+      height: auto;
+    }
+    
+    #tribute-info{
+      margin: 0 auto;
+    }
+    
+    .label{
+    color: #363A3C;
+    font-family: "Inria Sans";
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: normal;
+    display: block;
+    }
+    
+    ul{
+    list-style-type: none;
+    max-width: 460px;
+    margin: 0 auto;
+    }
+    
+    li{
+    border-radius: 6px;
+    background: #D7E9F3; 
+    padding:15px;
+    margin: 14px auto;
+    text-align: left;
+    }
+    
+    #quote{
+    color: #000;
+    font-family: "Inria Sans";
+    font-size: 16px;
+    font-style: italic;
+    font-weight: 400;
+    line-height: normal;
+    }
+    .quote-name{
+      display: block;
+    }
+    
+    #tribute-text, #quote, #img-caption{
+      max-width: 460px;
+      margin: 0 auto;
+    }
+    
